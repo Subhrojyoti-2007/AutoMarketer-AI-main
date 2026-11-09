@@ -368,4 +368,3 @@ Open [http://localhost:3000](http://localhost:3000) in a browser. Enter a websit
 
 ---
 
-Built by **Sujoy** for the PromptWars Hackathon.
