@@ -292,7 +292,7 @@ export default function Home() {
             </div>
             <div>
               <span className="font-anton text-2xl tracking-wide uppercase">
-                AutoMarketer AI
+                Kokoku
               </span>
               <span className="ml-3 px-2 py-0.5 border-2 border-black text-[10px] bg-[#00FF9D] font-mono font-bold uppercase">
                 NEO-RUNNER
@@ -827,7 +827,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t-4 border-black mt-20 py-10 bg-white text-center font-mono text-xs uppercase font-extrabold">
-        <p>© 2026 AutoMarketer AI Dashboard. Built by Sujoy</p>
+        <p>© 2026 Kokoku Dashboard. Built by Misti Doi Deployers</p>
       </footer>
     </div>
   );
