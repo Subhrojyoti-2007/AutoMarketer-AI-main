@@ -1,6 +1,6 @@
-﻿# AutoMarketer AI
+﻿# Kokoku
 
-AutoMarketer AI is a web application for creating a first draft of a social media campaign from a website URL or an Instagram handle. It gathers available brand context, produces a structured brand audit and seven day content calendar, and suggests ad slogans and image prompts.
+Kokoku is a web application for creating a first draft of a social media campaign from a website URL or an Instagram handle. It gathers available brand context, produces a structured brand audit and seven day content calendar, and suggests ad slogans and image prompts.
 
 The project is built with Next.js, React, TypeScript, and Cheerio. Campaign generation can use the Google Gemini API when configured. Without a working Gemini key, the server returns locally generated sample campaign data. The deploy endpoint is a demonstration queue: it does not publish to any social network.
 
